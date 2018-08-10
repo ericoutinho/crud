@@ -4,6 +4,6 @@
     use \sistema\modulos\autorizacoes;
 
     $x = new autorizacoes;
-    if ($x->login('ericoutinho@gmail.com','12345')) {
-        echo "Ok";
+    if ($x->login('email@email.com','12345')) {
+        echo "Conectado!";
     }

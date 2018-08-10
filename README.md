@@ -1,2 +1,2 @@
-# crud
-Crud simples em php/mysql para uso geral
+# CRUD
+Crud simples em php/mysql para uso geral.

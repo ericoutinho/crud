@@ -7,11 +7,11 @@
     class conectar{
 
         private static $driver    = 'mysql';
-        private static $host      = '10.2.0.3';
+        private static $host      = '127.0.0.1';
         private static $port      = 3306;
-        private static $usuario   = 'gestor';
-        private static $senha     = '071006';
-        private static $database  = 'gestor_data';
+        private static $usuario   = 'username';
+        private static $senha     = 'password';
+        private static $database  = 'database';
 
         protected static $conexao = null;
 
