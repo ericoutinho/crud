@@ -1,3 +1,5 @@
+CREATE DATABASE `crud_data` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
 CREATE TABLE `usuarios` (
         `id` int(11) NOT NULL AUTO_INCREMENT,
         `nome` varchar(45) NOT NULL,
