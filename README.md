@@ -1,6 +1,9 @@
 # CRUD
 Crud modular simples em **PHP/MySQL** para uso geral e aprendizagem.
-Inclui um módulo simples de controle de login.
+
+Inclui um módulo de exemplo simples de consulta de usuários e controle de login.
+
+Para utilizar crie a base de dados e tabela inicial no MySQL ou MariaDB.
 
 Database
 ```sql
